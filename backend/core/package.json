@@ -1,6 +1,6 @@
 {
   "name": "@scientistsmartbee/core",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "",
   "publishConfig": {
     "access": "public"
@@ -8,7 +8,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "peerDependencies": {
     "prettier": "^3.0.0"
   },
@@ -16,6 +16,6 @@
     "@trivago/prettier-plugin-sort-imports": "^5.2.2"
   },
   "exports": {
-    "prettier": "./src/prettier.config.mjs"
+    "./prettier": "./src/prettier.config.mjs"
   }
 }
