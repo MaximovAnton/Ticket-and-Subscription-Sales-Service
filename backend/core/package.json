@@ -1,6 +1,6 @@
 {
-  "name": "@Westie/core",
-  "version": "1.0.0",
+  "name": "@scientistsmartbee/core",
+  "version": "1.0.5",
   "description": "",
   "publishConfig": {
     "access": "public"
