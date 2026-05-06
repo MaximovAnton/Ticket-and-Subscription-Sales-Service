@@ -792,10 +792,10 @@
   resolved "https://registry.yarnpkg.com/@pkgr/core/-/core-0.2.9.tgz#d229a7b7f9dac167a156992ef23c7f023653f53b"
   integrity sha512-QNqXyfVS2wm9hweSYD2O7F0G06uurj9kZ96TRQE5Y9hU7+tgdZwIkbAKc5Ocy1HxEY2kuDQa6cQ1WRs/O5LFKA==
 
-"@scientistsmartbee/core@^1.0.7":
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/@scientistsmartbee/core/-/core-1.0.7.tgz#66189db1ff4e613b40314dc0726f649735cc3b3d"
-  integrity sha512-pScgviUdhQu1EGhfrL9z2pp2IlBKVa9stqHY6omnEHVclEv1V8n8/48WABAfJkDTndRliHWGgYGcHLhNoWqJFw==
+"@scientistsmartbee/core@^1.0.8":
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/@scientistsmartbee/core/-/core-1.0.8.tgz#92600e94a8121d18389ba317b16c6cc91dc4c6af"
+  integrity sha512-YIb9J4HvJaZJ3BLr065Q/NgHlJwo06gaa64H2nP06gBHanI1A78MZY9V1Ube64RCbZeycOuO7senoYog7oWRzg==
   dependencies:
     "@trivago/prettier-plugin-sort-imports" "^5.2.2"
 
