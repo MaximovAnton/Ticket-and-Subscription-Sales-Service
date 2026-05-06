@@ -1,3 +1,3 @@
-import config from '@scientistsmartbee/core'
+import config from '@scientistsmartbee/core/prettier'
 
 export default config
