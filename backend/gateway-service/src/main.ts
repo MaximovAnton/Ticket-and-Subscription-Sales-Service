@@ -21,6 +21,7 @@ async function bootstrap() {
 
     logger.log(`Gateway started: ${host}`)
     logger.log(`Swaager: ${host}/docs`)
+    
 }
 
 bootstrap();
